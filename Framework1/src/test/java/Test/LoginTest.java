@@ -22,6 +22,7 @@ public class LoginTest extends BaseTest {
 		
 		Assert.assertTrue(driver.getCurrentUrl().contains("dashboard"));
 		System.out.println("Git changes");
+		System.out.println("Git changes again done");
 	}
 	
 	
