@@ -21,6 +21,7 @@ public class LoginTest extends BaseTest {
 		lpage.logInWithValidCreds(user,password);
 		
 		Assert.assertTrue(driver.getCurrentUrl().contains("dashboard"));
+		System.out.println("Git changes");
 	}
 	
 	
