@@ -19,6 +19,7 @@ public class java1 {
 		System.out.println("I am new java leaner");
 		System.out.println("I am also learning Selenium");
 		System.out.println("This is my int "+a);
+		System.out.println("This is my int "+a);
 	}
 
 }
